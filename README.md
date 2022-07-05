@@ -3,7 +3,7 @@
 
 ---
 I'm backend developer from Russia
-- :telescope: I study at Moscow State University, now I am working on projects for the university and not only
+- :telescope: I study at Moscow State University, now I mainly work on projects for the university
 
 -  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alevardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alevardo/)
 ---
@@ -20,5 +20,8 @@ I'm backend developer from Russia
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="LaTeX" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
 </div>
-  
+ 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=semen603089)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semen603089&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
