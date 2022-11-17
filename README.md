@@ -10,14 +10,8 @@ I'm backend developer from Russia
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<style>
-   .frame {
-    border: 3px solid #00a8e1;
-   }
-</style>
-
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="80" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" **alt="Pycharm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" **alt="FastAPI" width="40" height="40"/>
