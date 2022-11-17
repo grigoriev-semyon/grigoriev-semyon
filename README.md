@@ -31,4 +31,5 @@ I'm backend developer from Russia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigoriev-semyon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=grigoriev-semyon&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ---
