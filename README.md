@@ -6,7 +6,7 @@ I'm backend developer from Russia
 - :telescope: I study at Moscow State University, I work on projects for university students.
 
 -  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alevardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alevardo/)
--  Telegram: @Alevardo
+-  :mailbox:Telegram: @Alevardo
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
