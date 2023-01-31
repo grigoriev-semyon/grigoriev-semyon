@@ -26,6 +26,8 @@ I'm backend developer from Russia
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
 </div>
 
+Also, I have experience in CI/CD. Used GitHub Actions to deliver and test the code
+
 ---
  
 ### :fire: My Stats :
