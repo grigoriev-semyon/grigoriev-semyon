@@ -2,7 +2,7 @@
 
 
 ---
-I'm backend developer from Russia
+I'm middle backend developer
 - :telescope: I study at Moscow State University
 
 -  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alevardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alevardo/)
