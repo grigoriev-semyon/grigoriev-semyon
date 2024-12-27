@@ -13,7 +13,7 @@ Also, I like to read programming books, such as:
 In addition, sometimes I contribute to open source projects, e.g `cpython`, or Python frameworks
 
 - :telescope: I study at Moscow State University
-- :telescope: Nowdays I work at Yandex
+- :telescope: I work at Yandex
 
 -  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alevardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alevardo/)
 -  :mailbox:Telegram: @Alevardo
